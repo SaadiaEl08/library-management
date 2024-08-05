@@ -1,4 +1,3 @@
-```markdown
 # Library Management 
 
 This Python project is designed to manage a library using a MySQL database. It includes various entities such as `Supplier`, `Book Genre`, `Author`, `Book`, `Member`, and `Loan`. The application uses the `customtkinter` and `tkinter` packages for the graphical user interface.
@@ -57,4 +56,3 @@ This Python project is designed to manage a library using a MySQL database. It i
 ---
 
 This project is part of an educational program to help you learn to work with Python, MySQL, and GUI development using `customtkinter` and `tkinter`. Have fun and happy coding!
-```
